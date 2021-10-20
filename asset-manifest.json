@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/excelsiors/static/css/main.ff043807.chunk.css",
+    "main.js": "/excelsiors/static/js/main.b3dbd7a2.chunk.js",
+    "main.js.map": "/excelsiors/static/js/main.b3dbd7a2.chunk.js.map",
+    "runtime-main.js": "/excelsiors/static/js/runtime-main.233de320.js",
+    "runtime-main.js.map": "/excelsiors/static/js/runtime-main.233de320.js.map",
+    "static/js/2.72c7e33e.chunk.js": "/excelsiors/static/js/2.72c7e33e.chunk.js",
+    "static/js/2.72c7e33e.chunk.js.map": "/excelsiors/static/js/2.72c7e33e.chunk.js.map",
+    "static/js/3.051c3f19.chunk.js": "/excelsiors/static/js/3.051c3f19.chunk.js",
+    "static/js/3.051c3f19.chunk.js.map": "/excelsiors/static/js/3.051c3f19.chunk.js.map",
+    "index.html": "/excelsiors/index.html",
+    "static/css/main.ff043807.chunk.css.map": "/excelsiors/static/css/main.ff043807.chunk.css.map",
+    "static/js/2.72c7e33e.chunk.js.LICENSE.txt": "/excelsiors/static/js/2.72c7e33e.chunk.js.LICENSE.txt",
+    "static/media/banner.cc25fa1c.png": "/excelsiors/static/media/banner.cc25fa1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.233de320.js",
+    "static/js/2.72c7e33e.chunk.js",
+    "static/css/main.ff043807.chunk.css",
+    "static/js/main.b3dbd7a2.chunk.js"
+  ]
+}
