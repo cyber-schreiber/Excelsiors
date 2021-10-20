@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/www.excelsiors.club/static/css/main.ff043807.chunk.css",
-    "main.js": "/www.excelsiors.club/static/js/main.b3dbd7a2.chunk.js",
-    "main.js.map": "/www.excelsiors.club/static/js/main.b3dbd7a2.chunk.js.map",
-    "runtime-main.js": "/www.excelsiors.club/static/js/runtime-main.8cf8a960.js",
-    "runtime-main.js.map": "/www.excelsiors.club/static/js/runtime-main.8cf8a960.js.map",
-    "static/js/2.72c7e33e.chunk.js": "/www.excelsiors.club/static/js/2.72c7e33e.chunk.js",
-    "static/js/2.72c7e33e.chunk.js.map": "/www.excelsiors.club/static/js/2.72c7e33e.chunk.js.map",
-    "static/js/3.051c3f19.chunk.js": "/www.excelsiors.club/static/js/3.051c3f19.chunk.js",
-    "static/js/3.051c3f19.chunk.js.map": "/www.excelsiors.club/static/js/3.051c3f19.chunk.js.map",
-    "index.html": "/www.excelsiors.club/index.html",
-    "static/css/main.ff043807.chunk.css.map": "/www.excelsiors.club/static/css/main.ff043807.chunk.css.map",
-    "static/js/2.72c7e33e.chunk.js.LICENSE.txt": "/www.excelsiors.club/static/js/2.72c7e33e.chunk.js.LICENSE.txt",
-    "static/media/banner.cc25fa1c.png": "/www.excelsiors.club/static/media/banner.cc25fa1c.png"
+    "main.css": "/static/css/main.ff043807.chunk.css",
+    "main.js": "/static/js/main.b3dbd7a2.chunk.js",
+    "main.js.map": "/static/js/main.b3dbd7a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb9e01c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb9e01c3.js.map",
+    "static/js/2.72c7e33e.chunk.js": "/static/js/2.72c7e33e.chunk.js",
+    "static/js/2.72c7e33e.chunk.js.map": "/static/js/2.72c7e33e.chunk.js.map",
+    "static/js/3.051c3f19.chunk.js": "/static/js/3.051c3f19.chunk.js",
+    "static/js/3.051c3f19.chunk.js.map": "/static/js/3.051c3f19.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ff043807.chunk.css.map": "/static/css/main.ff043807.chunk.css.map",
+    "static/js/2.72c7e33e.chunk.js.LICENSE.txt": "/static/js/2.72c7e33e.chunk.js.LICENSE.txt",
+    "static/media/banner.cc25fa1c.png": "/static/media/banner.cc25fa1c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cf8a960.js",
+    "static/js/runtime-main.bb9e01c3.js",
     "static/js/2.72c7e33e.chunk.js",
     "static/css/main.ff043807.chunk.css",
     "static/js/main.b3dbd7a2.chunk.js"
